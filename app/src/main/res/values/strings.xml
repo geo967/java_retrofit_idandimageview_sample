@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">retrofit7</string>
+    <string name="image_for_recyclerview">image_for_recyclerview</string>
+</resources>
